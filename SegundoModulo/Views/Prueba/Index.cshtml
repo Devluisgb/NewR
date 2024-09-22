@@ -1,0 +1,21 @@
+﻿@{
+    var datoPrueba = (Prueba)ViewData["datoPrueba"];
+    //var lstPrueba = (List<Prueba>)ViewData["lstDatos"];
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcom!!!</h1>
+    <h1 class="display-4">@datoPrueba.Id</h1>
+    <h1 class="display-4">@datoPrueba.Nombre</h1>
+    <h1 class="display-4">@datoPrueba.Descripcion</h1>
+    <!-- El foreach servira para recorrer la lista creada -->
+    
+   @*foreach (var item in lstPrueba)
+    {
+        <h1 class="display-4">@item.Id</h1>
+        <h1 class="display-4">@item.Nombre</h1>
+        <h1 class="display-4">@item.Descripcion</h1>
+    }
+    *@
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

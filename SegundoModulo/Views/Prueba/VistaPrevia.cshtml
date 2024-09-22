@@ -1,0 +1,15 @@
+@model SegundoModulo.Models.Prueba
+
+<div class="container mt-5">
+    <h1 class="display-4 text-center">Vista Previa del Elemento</h1>
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">ID: @Model.Id</h5>
+            <h5 class="card-title">Nombre: @Model.Nombre</h5>
+            <p class="card-text">Descripción: @Model.Descripcion</p>
+        </div>
+    </div>
+    <div class="text-center mt-3">
+        <a href="@Url.Action("Tabla", "Prueba")" class="btn btn-secondary">Volver</a>
+    </div>
+</div>

@@ -1,0 +1,44 @@
+@{
+    var lstPrueba = (List<Prueba>)ViewData["lstDatos"];
+}
+
+<div class="container mt-5">
+    <h1 class="display-4 text-center mb-4">Ejemplo de Listas</h1>
+     <!-- Botón de Crear -->
+    <div class="mb-3 text-center">
+        <a class="btn btn-success" href="@Url.Action("Crear", "Prueba")">Crear Nuevo</a>
+    </div>
+    <!-- Tabla de Bootstrap para mostrar los datos -->
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Descripción</th>
+                <th scope="col">Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in lstPrueba)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Nombre</td>
+                    <td>@item.Descripcion</td>
+                     <td>
+                        <!-- Botón de vista previa -->
+                        <a class="btn btn-info" href="@Url.Action("VistaPrevia", "Prueba", new { id = item.Id })">Vista Previa</a>
+                         <!-- Botón de editar -->
+                        <a class="btn btn-primary" href="@Url.Action("Editar", "Prueba", new { id = item.Id })">Editar</a>
+                        <!-- Botón de eliminar -->
+                        <a class="btn btn-danger" href="@Url.Action("Eliminar", "Prueba", new { id = item.Id })" 
+                           onclick="return confirm('¿Estás seguro de que deseas eliminar este elemento?');">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <p class=" text-center">Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with
+                                ASP.NET Core</a>.</p>
+    </div>

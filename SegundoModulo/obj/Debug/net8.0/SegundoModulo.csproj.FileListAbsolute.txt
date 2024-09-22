@@ -1,0 +1,304 @@
+l:\Desarrollo Web\Practica2\SegundoModulo\bin\Debug\net8.0\appsettings.Development.json
+l:\Desarrollo Web\Practica2\SegundoModulo\bin\Debug\net8.0\appsettings.json
+l:\Desarrollo Web\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.staticwebassets.runtime.json
+l:\Desarrollo Web\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.exe
+l:\Desarrollo Web\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.deps.json
+l:\Desarrollo Web\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.runtimeconfig.json
+l:\Desarrollo Web\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.dll
+l:\Desarrollo Web\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.pdb
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.GeneratedMSBuildEditorConfig.editorconfig
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.AssemblyInfoInputs.cache
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.AssemblyInfo.cs
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.csproj.CoreCompileInputs.cache
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.MvcApplicationPartsAssemblyInfo.cache
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.RazorAssemblyInfo.cache
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.RazorAssemblyInfo.cs
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets.build.json
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets.development.json
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.SegundoModulo.Microsoft.AspNetCore.StaticWebAssets.props
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.build.SegundoModulo.props
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SegundoModulo.props
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SegundoModulo.props
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets.pack.json
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\scopedcss\bundle\SegundoModulo.styles.css
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\scopedcss\projectbundle\SegundoModulo.bundle.scp.css
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.dll
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\refint\SegundoModulo.dll
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.pdb
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.genruntimeconfig.cache
+l:\Desarrollo Web\Practica2\SegundoModulo\obj\Debug\net8.0\ref\SegundoModulo.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\appsettings.Development.json
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\appsettings.json
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.staticwebassets.runtime.json
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.exe
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.deps.json
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.runtimeconfig.json
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\SegundoModulo.pdb
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Azure.Core.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Azure.Identity.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Humanizer.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\Mono.TextTemplating.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.CodeDom.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Composition.Convention.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Composition.Hosting.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Composition.Runtime.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Drawing.Common.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Memory.Data.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Runtime.Caching.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Security.Permissions.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\System.Windows.Extensions.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.csproj.AssemblyReference.cache
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.GeneratedMSBuildEditorConfig.editorconfig
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.AssemblyInfoInputs.cache
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.AssemblyInfo.cs
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.csproj.CoreCompileInputs.cache
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.MvcApplicationPartsAssemblyInfo.cache
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.RazorAssemblyInfo.cache
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.RazorAssemblyInfo.cs
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets.build.json
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets.development.json
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.SegundoModulo.Microsoft.AspNetCore.StaticWebAssets.props
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.build.SegundoModulo.props
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SegundoModulo.props
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SegundoModulo.props
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\staticwebassets.pack.json
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\scopedcss\bundle\SegundoModulo.styles.css
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\scopedcss\projectbundle\SegundoModulo.bundle.scp.css
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoM.55807072.Up2Date
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\refint\SegundoModulo.dll
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.pdb
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\SegundoModulo.genruntimeconfig.cache
+L:\desarrolloWeb\Practica2\SegundoModulo\obj\Debug\net8.0\ref\SegundoModulo.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\appsettings.Development.json
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\appsettings.json
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\SegundoModulo.staticwebassets.runtime.json
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\SegundoModulo.exe
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\SegundoModulo.deps.json
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\SegundoModulo.runtimeconfig.json
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\SegundoModulo.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\SegundoModulo.pdb
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Azure.Core.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Azure.Identity.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Humanizer.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Mono.TextTemplating.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.CodeDom.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Composition.Convention.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Composition.Hosting.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Composition.Runtime.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Drawing.Common.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Memory.Data.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Runtime.Caching.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Security.Permissions.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\System.Windows.Extensions.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.csproj.AssemblyReference.cache
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.GeneratedMSBuildEditorConfig.editorconfig
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.AssemblyInfoInputs.cache
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.AssemblyInfo.cs
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.csproj.CoreCompileInputs.cache
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.MvcApplicationPartsAssemblyInfo.cache
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.RazorAssemblyInfo.cache
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.RazorAssemblyInfo.cs
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\staticwebassets.build.json
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\staticwebassets.development.json
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.SegundoModulo.Microsoft.AspNetCore.StaticWebAssets.props
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.build.SegundoModulo.props
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SegundoModulo.props
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SegundoModulo.props
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\staticwebassets.pack.json
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\scopedcss\bundle\SegundoModulo.styles.css
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\scopedcss\projectbundle\SegundoModulo.bundle.scp.css
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoM.55807072.Up2Date
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.dll
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\refint\SegundoModulo.dll
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.pdb
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\SegundoModulo.genruntimeconfig.cache
+d:\work-space\desarrolloWeb\SegundoModulo\obj\Debug\net8.0\ref\SegundoModulo.dll
+D:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\MySqlConnector.dll
+D:\work-space\desarrolloWeb\SegundoModulo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll

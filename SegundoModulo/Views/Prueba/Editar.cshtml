@@ -1,0 +1,20 @@
+@model SegundoModulo.Models.Prueba;
+
+<div class="container mt-5">
+    <h2 class="display-4 text-center mb-4">Editar Prueba</h2>
+
+    <!-- Formulario para editar -->
+    <form asp-action="Actualizar" method="post">
+        <div class="form-group">
+            <label for="Nombre">Nombre</label>
+            <input type="text" class="form-control" id="Nombre" name="Nombre" value="@Model.Nombre" required />
+        </div>
+        <div class="form-group">
+            <label for="Descripcion">Descripción</label>
+            <input type="text" class="form-control" id="Descripcion" name="Descripcion" value="@Model.Descripcion" required />
+        </div>
+        <input type="hidden" name="Id" value="@Model.Id" />
+        <button type="submit" class="btn btn-success">Guardar Cambios</button>
+        <a href="@Url.Action("Tabla", "Prueba")" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>
